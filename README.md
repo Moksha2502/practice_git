@@ -1,4 +1,4 @@
 # Name:Mokshagna
 
 RollNo:221FA04456
-College:Vignan (UpDown) (hello)
+College:Vignan (UpDown)
